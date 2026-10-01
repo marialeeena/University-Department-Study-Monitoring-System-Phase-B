@@ -13,6 +13,6 @@ An advanced object-oriented C++ program developed for the second phase of the un
 ## Compilation & Execution
 
 
-g++ -o study_system final.cpp
+g++ -o study_system secondpart.cpp
 
  ./study_system
